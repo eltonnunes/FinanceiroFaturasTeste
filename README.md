@@ -1,0 +1,2 @@
+# FinanceiroFaturasTeste
+Created with CodeSandbox
